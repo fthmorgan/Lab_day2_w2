@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(179, 220, 101);
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.col-3 {
+  border: 3px solid black;
+}
